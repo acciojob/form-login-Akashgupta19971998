@@ -1,5 +1,6 @@
+let firstName=document.getElementById("firstname")
+let lastName=document.getElementById("lastname")
 function getFormvalue() {
-    //Write your code here
-alert(documnet.queryselector(#firstname).value 
-	 documnet.queryselector(#lastname).value)
+    let ans=(firstName.value , lastName.value)
+alert(ans)
 }
